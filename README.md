@@ -13,7 +13,7 @@ App feito em durante o Curso de Kotlin para aprendizagem e fixação da arquitet
 
 * Retrofit
 * Converter-Gson
-* ![API](http://devmasterteam.com/cursoandroid/api)
+* [API](http://devmasterteam.com/cursoandroid/api)
 
 
 # Layout
