@@ -20,7 +20,7 @@ App feito em durante o Curso de Kotlin para aprendizagem e fixação da arquitet
 
 ![TelaLogin](https://github.com/AthosPrescinato/Tasks/blob/main/image/Login.jpg)
 ![TeladeCadastro](https://github.com/AthosPrescinato/Tasks/blob/main/image/Cadastro%20de%20Usuario.jpg)
-![ListaDeTarefas](https://github.com/AthosPrescinato/Tasks/blob/main/image/Lista%20de%20Tarefas.jpg)
+![ListaDeTarefas](https://github.com/AthosPrescinato/Tasks/blob/main/image/Lista%20de%20Tarefas-2.jpg)
 ![TelaCricaçãoDeTarefa](https://github.com/AthosPrescinato/Tasks/blob/main/image/Cria%C3%A7%C3%A3o%20da%20Tarefas.jpg)
 ![TelaCricaçãoDeTarefa - Lista de Prioridades](https://github.com/AthosPrescinato/Tasks/blob/main/image/Cria%C3%A7%C3%A3o%20da%20Tarefa%20-%20Lista%20de%20Prioridade.jpg)
 ![TelaCricaçãoDeTarefa - Calendario](https://github.com/AthosPrescinato/Tasks/blob/main/image/Cria%C3%A7%C3%A3o%20da%20Tarefas%20-%20Calendario.jpg)
