@@ -1,5 +1,5 @@
 # Tasks
-App feito em durante o Curso de Kotlin para aprendizagem e fixação da arquitetura MVVM, Biblioteca Retrofit e API.
+Foi utilizado na aplicação a arquitetura MVVM, Biblioteca Retrofit e API.
 
 
 # Build
