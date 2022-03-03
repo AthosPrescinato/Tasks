@@ -1,6 +1,5 @@
 # Tasks
-Foi utilizado na aplicação a arquitetura MVVM, Biblioteca Retrofit e API.
-
+Foi utilizado na aplicação, autenticação de usuario, a arquitetura MVVM, Biblioteca Retrofit e API.
 
 # Build
 * Android Studio 4.2.1
