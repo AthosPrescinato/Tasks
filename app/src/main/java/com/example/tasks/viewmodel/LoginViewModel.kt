@@ -27,6 +27,7 @@ class LoginViewModel(application: Application) : AndroidViewModel(application) {
 
 
     fun doLogin(email: String, password: String) {
+
         mPersonRepository.login(email, password, object : APIListener<HeaderModel> {
             override fun onSuccess(model: HeaderModel) {
 
